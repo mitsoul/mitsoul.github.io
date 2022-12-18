@@ -16,7 +16,7 @@ This site is under development. Check back at the end of January when we will ha
 ---
 
 <div class="small center">
-<p><a href="https://github.com/missing-semester/missing-semester">Source code</a>.</p>
+<p><a href="https://github.com/mitsoul/mitsoul.github.io">Source code</a>.</p>
 <p>Licensed under CC BY-NC-SA.</p>
 <p>See <a href="/license/">here</a> for contribution &amp; translation guidelines.</p>
 </div>
