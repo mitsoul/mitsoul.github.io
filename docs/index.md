@@ -3,9 +3,9 @@ layout: page
 title: Students for Open and Universal Learning
 ---
 
-SOUL (students for open and universal learning) is an organization that works to accelerate, experiment with, and build a stronger culture of open education at MIT and beyond. We want to build a future where anyone can learn anything from anywhere for free or at low-cost.
+SOUL (students for open and universal learning) is an organization that works to accelerate, experiment with, and build a stronger culture of open education at MIT and beyond. We want to live in a world where anyone can learn anything from anywhere for free or at low-cost. To that end, we are working on pushing the boundaries of open education materials through various [projects](/projects/).
 
-Through our [projects](/projects/), we aim to push the boundaries of what open education materials look like through systematic experimentation. We are careful to stay mindful about the [limits](https://failuretodisrupt.com/) of technology in transforming education.
+Anyone trying to innovate in the education space should be wary of overpromising and should acknowledge that the situation is probably more complicated than they realize. We are doing our best to be mindful of the [limits](https://failuretodisrupt.com/) of technology in disrupting education. Our approach involves systematic experimentation and, at every step, actually talking to and working with all kinds of students and teachers to make sure we're not building something that is not needed.
 
 Our main goal for the 2022-2023 year is to
 1. open source as many MIT classes as possible such that they are realistically learnable -- with complete materials such as lecture videos, lecture notes, homework and homework solutions, Q/A, and more, and
