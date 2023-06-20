@@ -4,9 +4,7 @@ title: Manifesto
 permalink: /manifesto/
 ---
 
-Check back soon!
-
-<!-- ## Background
+## Background
 When I was graduating from MIT, I felt a big sense of loss around losing access to all of MIT's courses. At MIT, you're allowed to take (with or without credit) any course and any number of courses, where taking a course gives you access to all of the course's learning materials. This opportunity inspires an amazing, empowering feeling that you can learn anything you want to, as long as you put in the required time and effort.
 
 The main thing I got from the courses I took in college wasn't subject-specific knowledge, but learning how to learn. By the time I was graduating, I felt like as long as I had good enough learning resources, I could learn anything. And I felt like if I could learn anything, I could accomplish anything. I saw knowledge as the main bottleneck for myself to being able to do things, as I've been lucky to have enough of the other ingredients: opportunities, networks, funding, time, good health, etc.
@@ -53,7 +51,7 @@ There are just so many ways we could imagine the landscape of higher education c
 Open sourcing the university-level curriculum has so much potential to do a lot of good. With the government also making a big [investment into OER](https://www.mass.edu/strategic/oer.asp), all signs point to now being the perfect time to innovate in this direction.
 
 - Ashay Athalye \\
-director, SOUL -->
+director, SOUL
 
 <!-- It's true that in today's world, you can learn a lot of things from the resources you can find on the internet: youtube videos, textbooks, open course materials, MOOCs, forums, blogs, Q/A sites, ... the list goes on. It's also true that one university's course offerings cover small percentage of the knowledge out there.
 
