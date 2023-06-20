@@ -5,7 +5,7 @@ title: Students for Open and Universal Learning
 
 [SOUL](/name/) (students for open and universal learning) is an organization that works to accelerate, experiment with, and build a stronger culture of open education at institutions of higher education, starting with MIT. We want to live in a world where anyone can learn anything from anywhere for free or at low-cost. To that end, our main goal in the short term is to open source learning materials from as many college courses as possible, in a way that make those courses "realistically learnable".
 
-For a more detailed explanation of what we are doing and why, read our [manifesto](/manifesto/) and list of [projects](/projects/).
+For a more detailed explanation of what we are doing and why, read our [manifesto](/manifesto/) and list of [projects](/projects/). Note that we are separate from MIT OpenCourseWare (we still collaborate closely with MIT Open Learning), and we currently operate as a student club at MIT. 
 
 
 <!-- Towards that [vision](/vision/), we are working on pushing the boundaries of what open education materials look like through various [projects](/projects/). -->
