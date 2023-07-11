@@ -26,9 +26,7 @@ What's so exciting about this work is that it's so feasible. For (1), after inte
 
 Right now, we are prioritizing quality over quantity and focusing on building a robust infrastructure and workflow that will allow us to scale up high-quality production in the future. We are also prioritizing which courses to put up first: (1) courses corresponding to a major's or minor's curriculum, because we think the value of a complete course sequence is much greater than a smattering of unrelated courses, and (2) a few laboratory-intensive and discussion-focused courses that are underrepresented in OER and are uniquely difficult to translate effectively into an online setting.
 
-Open sourcing an entire college curriculum is an exhilarating challenge that is actually very achievable. With the right strategy, we could make hundreds of realistically learnable courses accessible online within a few years, and for a fraction of the budget required to support OCW. For instance, we are on track to make MIT's entire undergraduate economics curriculum freely available online for free in one or two more years.
-
-<!-- What is so exciting about this work is that it's a real, nontrivial challenge, but it is also very feasible. I can say confidently that, with not that much funding (e.g. much less than the funds required to support the OCW team for a single year), we could get hundreds of courses, all realistically learnable, online within a few years. As a concrete example, we are on track to get MIT's entire undergraduate economics curriculum, realistically learnable from, freely available online in one or two more years. -->
+Open sourcing an entire college curriculum is an exhilarating challenge that is actually very achievable. With the right strategy, we could make hundreds of realistically learnable courses accessible online within a few years, and for a fraction of the budget required to support something like OCW. For instance, we are on track to make MIT's entire undergraduate economics curriculum freely available online for free in one or two more years.
 
 <!-- Before I go on, I'll mention that at MIT (and many other universities), the professors own their teaching materials. So, as long as they are willing to put their materials up, we are good to go. A valid concern is, why would the university itself be ok with all its course materials being freely available online? If that happened, why would anyone pay tuition to enroll in the university? Would the university change its policy for who owns course materials?
 
@@ -36,7 +34,9 @@ From the many professors and administrators I've talked to at MIT, I gather that
 
 ## Vision
 
-If the entire university-level curriculum was realistically learnable from freely available online resources, what would the world look like? Would this solve all the problems in higher education, including the cost of college in the United States forcing people to take on crippling debt? How would it empower people?
+Check back soon!
+
+<!-- If the entire university-level curriculum was realistically learnable from freely available online resources, what would the world look like? Would this solve all the problems in higher education, including the cost of college in the United States forcing people to take on crippling debt? How would it empower people?
 
 Before I describe our vision, I want to say, vehemently, that we are not claiming that we will necessarily solve some huge world problem with what we are doing. We are wary of making grand assumptions, and we acknowledge that the situation is probably more complicated than we realize. Importantly, we are doing our best to be mindful of the [limits](https://failuretodisrupt.com/) of technology and of any single solution in disrupting education. Our approach involves systematic experimentation and, at every step, actually talking to and working with all kinds of students, teachers, administrators, and employers to make sure what we are building is sensible.
 
@@ -54,7 +54,9 @@ Beyond in-person instantiations, tutoring and auto-graded feedback services coul
 
 There are just so many ways we could imagine the landscape of higher education changing. Open materials could encourage more flipped classroom designs and project-based learning. We might see [credentials becoming less important](https://www.nytimes.com/2023/01/28/opinion/jobs-college-degree-requirement.html), and more people demonstrating knowledge through portfolios. We might see lots of people contributing to the improvement of an open course.
 
-Open sourcing the university-level curriculum has so much potential to do a lot of good. With the government also making a big [investment into OER](https://www.mass.edu/strategic/oer.asp), all signs point to now being the perfect time to innovate in this direction.
+Open sourcing the university-level curriculum has so much potential to do a lot of good. With the government also making a big [investment into OER](https://www.mass.edu/strategic/oer.asp), all signs point to now being the perfect time to innovate in this direction. -->
+
+<!-- ############### -->
 
 <!-- If the entire university-level curriculum was realistically learnable from freely available online resources, what would the world look like? Would this solve all the problems in higher education, including the cost of college in the United States forcing people to take on crippling debt? How would it empower people?
 
