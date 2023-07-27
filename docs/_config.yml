@@ -12,8 +12,8 @@ permalink: /:title/
 future: true
 # safe: true # breaks local rendering if enabled
 timezone: America/New_York
-# analytics:
-  # tracking_id: UA-53167467-11
+analytics:
+  tracking_id: "G-74WTD8FZCR"
 
 collections:
   '2019':
