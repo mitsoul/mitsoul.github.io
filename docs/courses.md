@@ -4,8 +4,6 @@ title: Courses
 permalink: /courses/
 ---
 
-We have many courses in our pipeline – check back in September 2023 to see more.
-
 To summarize the status of a course's materials, we use the following emojis:
 - ✅ indicates comprehensive and current course materials
 - 🔄 indicates incomplete and/or outdated course materials
