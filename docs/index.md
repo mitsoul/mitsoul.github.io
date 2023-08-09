@@ -5,13 +5,12 @@ title: Students for Open and Universal Learning
 
 [SOUL](/name/) (students for open and universal learning) is an organization that works to accelerate, experiment with, and build a stronger culture of open education at institutions of higher education, starting with MIT.
 We want to live in a world where anyone can learn anything from anywhere for free or at a low-cost.
-To that end, our main goal in the short term is to open source learning materials from as many college courses as possible in a way that makes those courses "realistically learnable".
-For a more detailed explanation of what we are doing and why, read our [manifesto](/manifesto/).
-Note that while we collaborate closely with MIT [Open Learning](https://openlearning.mit.edu/), we are a separate entity from MIT [OpenCourseWare](https://ocw.mit.edu/).
-We currently operate as a student club at MIT.
+To that end, our main goal in the short term is to open source learning materials from as many college courses as possible in a way that makes those courses "realistically learnable". To see the course materials we've curated so far, look at the [courses](/courses/) tab.
 
-If you are an educator and are open to putting your teaching materials online, we would love to help you with that process.
-To see the course materials we've curated so far, look at the [courses](/courses/) tab.
+For a more detailed explanation of what we are doing and why, read our [manifesto](/manifesto/).
+Note that while we collaborate closely with MIT [Open Learning](https://openlearning.mit.edu/), we are a separate entity from MIT [OpenCourseWare](https://ocw.mit.edu/). We currently operate as a student club at MIT.
+
+If you are an educator and are open to putting your teaching materials online, we would love to help and make the process very easy for you – email us and we can have a short call to get started.
 
 
 <!-- Towards that [vision](/vision/), we are working on pushing the boundaries of what open education materials look like through various [projects](/projects/). -->
