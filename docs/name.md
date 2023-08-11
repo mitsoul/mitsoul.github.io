@@ -9,6 +9,6 @@ title: About the name
 
 - We want all learning resources to be accessible to everyone @ _**open**_
 
-- We want all learning resources to be applicable to everyone by ensuring that they are culturally relevant and "realistically learnable" for all audiences, and we want these resources to be comprehensive enough to be able to learn anything from them @ _**universal**_
+- We want all learning resources to be applicable to everyone by ensuring that they are culturally relevant and "realistically learnable" for all audiences, and we want them to be comprehensive enough to be able to learn anything from them @ _**universal**_
 
 - We wanted a nice acronym @ _**SOUL**_

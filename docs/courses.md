@@ -4,6 +4,8 @@ title: Courses
 permalink: /courses/
 ---
 
+Of the course materials we list here, some are are provided by us and others are links to elsewhere on the internet. 
+
 To summarize the status of a course's materials, we use the following emojis:
 - ✅ indicates comprehensive and current course materials
 - 🔄 indicates incomplete and/or outdated course materials
