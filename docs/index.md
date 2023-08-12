@@ -10,7 +10,7 @@ To that end, our main goal in the short term is to open source learning material
 For a more detailed explanation of what we are doing and why, read our [manifesto](/manifesto/).
 Note that while we collaborate closely with MIT [Open Learning](https://openlearning.mit.edu/), we are a separate entity from MIT [OpenCourseWare](https://ocw.mit.edu/). We currently operate as a student club at MIT.
 
-If you are an educator and are open to putting your teaching materials online, we would love to help and make the process very easy for you – email us and we can have a short call to get started.
+If you are an educator and are open to putting your teaching materials online, we would love to help make the process very easy for you – email us and we can have a short call to get started.
 
 
 <!-- Towards that [vision](/vision/), we are working on pushing the boundaries of what open education materials look like through various [projects](/projects/). -->
