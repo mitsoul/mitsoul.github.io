@@ -166,7 +166,7 @@ We should not expect any single endeavor to fix them.
 \\
 \\
 I don't think we've made enough progress in OER to have properly tested what difference they could make – we haven't given them a real chance yet.
-For example, OCW has a lot of courses, but most of them are outdated, most of them are not realistically learnable, and the course offerings represent some smattering of random courses – there's no sequence of complete courses equivalent of a major or minor from the undergraduate curriculum.
+For example, OCW has a lot of courses, but most of them are outdated, most of them are not realistically learnable, and the course offerings represent some smattering of random courses – there's no sequence of complete courses equivalent to a major or minor from the undergraduate curriculum.
 Despite this, there's still so much [evidence](https://www.slideshare.net/stephenecarson/mit-opencourseware-case-study-slides) that OCW makes a difference.
 \\
 \\
