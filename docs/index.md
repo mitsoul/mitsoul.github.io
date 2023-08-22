@@ -12,7 +12,6 @@ Note that while we collaborate closely with MIT [Open Learning](https://openlear
 
 If you are an educator and are open to putting your teaching materials online, we would love to help make the process very easy for you – email us and we can have a short call to get started.
 
-
 <!-- Towards that [vision](/vision/), we are working on pushing the boundaries of what open education materials look like through various [projects](/projects/). -->
 
 <!-- Anyone trying to innovate in the education space should be wary of overpromising and should acknowledge that the situation is probably more complicated than they realize. We are doing our best to be mindful of the [limits](https://failuretodisrupt.com/) of technology and of any single solution in disrupting education. Our approach involves systematic experimentation and, at every step, actually talking to and working with all kinds of students, teachers, administrators, and employers to make sure what we are building is sensible. -->
