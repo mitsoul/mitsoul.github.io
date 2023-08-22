@@ -76,7 +76,7 @@ We are also prioritizing which courses to put up first: (1) courses correspondin
 
 Open sourcing an entire college curriculum is an exhilarating challenge that is actually very feasible for us.
 With the right strategy, we could make hundreds of realistically learnable courses accessible online for a fraction of the budget required to support something like OCW, all within just a few years.
-For instance, we are on track to make MIT's entire undergraduate economics curriculum freely available online for free by 2025.
+For instance, we are on track to make MIT's entire undergraduate economics curriculum freely available online by 2025.
 
 Anyone trying to innovate in the education space should be wary of overpromising and should acknowledge that the situation is probably more complicated than they realize. We are doing our best to be mindful of the [limits](https://failuretodisrupt.com/) of technology and of any single solution in disrupting education. Our approach involves systematic experimentation and, at every step, actually talking to and working with all kinds of students, teachers, administrators, and employers to make sure what we are building is sensible.
 
