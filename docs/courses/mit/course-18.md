@@ -12,3 +12,4 @@ IAP classes:
 
 Fall/Spring classes:
 - ✅ 18.901 [Introduction to Topology](https://math.mit.edu/~jhirsh/topology.html) (Spring 2016)
+- 🔄 18.700 [Linear Algebra](/courses/mit/course-18/18-700/) (Fall 2022)
