@@ -35,3 +35,4 @@ Fall/Spring classes:
 - ✅ 6.828/6.5660: [Computer Systems Security](https://css.csail.mit.edu/6.5660/2024/schedule.html) (Spring 2024)
 - ✅ 6.s081: [Dynamic Computer Language Engineering](http://6.s081.scripts.mit.edu/sp18/schedule.html) (Spring 2018)
 - ✅ 6.s050: [Programming Language Design](https://people.csail.mit.edu/feser/pld-s23/) (Spring 2023)
+- ✅ 6.s890: [Topics in Multiagent Learning](http://web.mit.edu/~gfarina/www/6S890/) (Fall 2023)
