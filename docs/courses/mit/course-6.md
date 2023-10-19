@@ -12,8 +12,10 @@ See EECS degree [requirements](https://www.eecs.mit.edu/academics/undergraduate-
 IAP classes:
 - ✅ [Introduction to Data-Centric AI](https://dcai.csail.mit.edu) (January 2023)
     - Videos processed by MIT SOUL.
-- ✅ 6.S091 [Causality: Policy Evaluation, Structure Learning, and Representation Learning](https://github.com/csquires/6.S091-causality) (January 2023)
-- ✅ [Missing Semester](https://missing.csail.mit.edu/) (January 2020)
+- ✅ 6.s091: [Causality: Policy Evaluation, Structure Learning, and Representation Learning](https://github.com/csquires/6.S091-causality) (January 2023)
+- ✅ 6.s092: [The Art and Science of PCB Design](https://pcb.mit.edu/) (January 2023)
+- ✅ [Modern Zero Knowledge Cryptography](zkiap.com) (January 2023)
+- ✅ [The Missing Semester (of your Computer Science Education)](https://missing.csail.mit.edu/) (January 2020)
 - ✅ 6.9620: [web.lab](https://weblab.mit.edu/schedule/) (Jan 2023)
 
 Fall/Spring classes:
