@@ -21,7 +21,7 @@ Fall/Spring classes:
 - 🔄 6.033: [Computer System Engineering](https://web.mit.edu/6.1800/www/) (Spring 2023)
   - <span style="color:red">no psets, exams, or lecture videos</span>
 - 🔄 6.036: [Intro to Machine Learning](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/course/#block-v1:MITx+6.036+1T2019+type@sequential+block@intro_ml) (Spring 2020)
-  - <span style="color:red">no exams</span>
+  - <span style="color:red">no labs or exams</span>
 - ✅ 6.042: [Mathematics for Computer Science](/courses/mit/course-6/6-042/) (Spring 2010, 2015, 2018)
 - ✅ 6.101: [Fundamentals of Programming](https://py.mit.edu/fall23/calendar) (Fall 2023)
 - ✅ 6.1600: [Foundations of Computer Security](https://61600.csail.mit.edu/2023/) (Fall 2023)
