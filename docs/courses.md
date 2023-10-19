@@ -9,7 +9,7 @@ Of the course materials we list here, some are are provided by us and others are
 To summarize the status of a course's materials, we use the following emojis:
 - ✅ indicates comprehensive and current course materials
 - 🔄 indicates incomplete and/or outdated course materials
-- 🔄📝 indicates only lecture notes available
+- 📝 indicates only lecture notes available
 - 🛠️ indicates coming soon
 <!-- - 🇸 indicates that the course was/is processed by SOUL  -->
 
