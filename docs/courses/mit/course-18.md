@@ -11,6 +11,7 @@ IAP classes:
 - ✅ 18.S097 [Introduction to Proofs](https://math.mit.edu/classes/proofsiap/) (January 2015)
 
 Fall/Spring classes:
+- ✅ 18.783: [Elliptic Curves](https://math.mit.edu/classes/18.783/2023/) (Fall 2023)
 - ✅ 18.901 [Introduction to Topology](https://math.mit.edu/~jhirsh/topology.html) (Spring 2016)
 - 🔄 18.700 [Linear Algebra](/courses/mit/course-18/18-700/) (Fall 2022)
   - <span style="color:red">no exams</span>

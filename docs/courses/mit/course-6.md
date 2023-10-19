@@ -33,6 +33,7 @@ Fall/Spring classes:
 - ✅ 6.824: [Distributed Systems](https://pdos.csail.mit.edu/6.824/) (Spring 2023)
 - ✅ 6.826: Principles of Computer Systems ([Fall 2020](https://6826.csail.mit.edu/2020/), [Fall 2019](https://6826.csail.mit.edu/2019/), [Fall 2017](https://6826.csail.mit.edu/2017/))
 - ✅ 6.828: [Computer Systems Security](https://css.csail.mit.edu/6.5660/) (Spring 2023)
+- ✅ 6.875: [(Mathematical) Foundations of Cryptography](https://mit6875.github.io) (Fall 2023)
 - ✅ 6.s081: Dynamic Computer Language Engineering ([Spring 2019](http://6.s081.scripts.mit.edu/sp19/schedule.html), [Spring 2018](http://6.s081.scripts.mit.edu/sp18/schedule.html), [Spring 2017](http://6.s081.scripts.mit.edu/sp17/schedule.html))
 - ✅ 6.s050: [Programming Language Design](https://people.csail.mit.edu/feser/pld-s23/) (Spring 2023)
 - 📝 6.s890: [Topics in Multiagent Learning](http://web.mit.edu/~gfarina/www/6S890/) (Fall 2023)
