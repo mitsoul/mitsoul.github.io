@@ -28,7 +28,7 @@ Fall/Spring classes:
 - ✅ 6.512: [Coq: Formal Reasoning About Programs](https://frap.csail.mit.edu/) (Spring 2023)
   - <span style="color:red">no lecture videos (but has free textbooks)</span>
 - ✅ 6.7320: [Parallel Computing and Scientific Machine Learning](https://book.sciml.ai/) (Spring 2023)
-- ✅ 6.804: [Computational Cognitive Science](http://9.660.scripts.mit.edu/)
+- ✅ 6.804: [Computational Cognitive Science](http://9.660.scripts.mit.edu/) (Fall 2023)
   - [textbook with exercises here](https://probmods.org/)
   - <span style="color:red">no lecture videos, but has comprehensive and interactive notes</span>
 - 📝 6.820: [Foundations of Program Analysis](https://ocw.mit.edu/courses/6-820-fundamentals-of-program-analysis-fall-2015/) (Fall 2015)
