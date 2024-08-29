@@ -129,13 +129,15 @@ pre code {
 }
 
 a {
-  color: #54008c;
+  /* color: #54008c; */
+  color: #2B607B;
   text-decoration: underline;
 }
 
 a:hover {
   color: #fff;
-  background-color: #54008c;
+  /* background-color: #54008c; */
+  background-color: #2B607B;
 }
 
 img, video {
@@ -229,7 +231,8 @@ hr {
   margin: 0;
   padding: 0.25rem 1rem;
   font-family: "Source Code Pro", "Menlo", "DejaVu Sans Mono", "Lucida Console", monospace;
-  background: #54008c;
+  /* background: #54008c; */
+  background: #2B607B;
   color: #fff;
 }
 
@@ -250,7 +253,8 @@ hr {
 }
 
 a#logo {
-  color: #f2deff;
+  /* color: #f2deff; */
+  color: #b2e3ef;
 }
 
 a:hover#logo {
