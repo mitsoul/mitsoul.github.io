@@ -48,7 +48,7 @@ For the student looking for additional learning materials to supplement the badl
 
 # What we do
 SOUL aims to accelerate, experiment with, and build a stronger culture of open education at institutions of higher education, starting with MIT.
-We want to live in a world where anyone can learn anything from anywhere for free or at a low-cost.
+We want to live in a world where anyone can learn anything from anywhere for free or at a low cost.
 To that end, our main goal in the short term is to open source (e.g. via a [Creative Commons](https://creativecommons.org/about/cclicenses/) license) learning materials from as many college courses as possible in a way that makes those courses “realistically learnable”.
 By "realistically learnable", we mean that someone who meets the course's prerequisites can realistically teach themselves all of the course's content using the provided learning materials.
 
