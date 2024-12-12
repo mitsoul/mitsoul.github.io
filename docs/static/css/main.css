@@ -222,6 +222,15 @@ hr {
   padding: 1rem 1rem 0 1rem;
 }
 
+#blog {
+  max-width: 35rem;
+  margin: auto;
+  margin-bottom: 2rem;
+  padding: 1rem 1rem 0 1rem;
+  font-size: 12pt;
+  line-height: 1.2;
+}
+
 .demo {
   margin-top: 2em;
   margin-bottom: 2em;
