@@ -89,9 +89,9 @@ Recording classes should be very easy, but it can be hard to achieve at scale.
 
 Teaching staff already have a lot to worry about. Is it reasonable to expect them to be able to help with recording setup? Next time, should I also recruit some students in the class to help? My experience hiring students to do lecture scribing work tells me otherwise -- they can also be unreliable. 
 
-My main takeaway from trying to get classes recorded the past few years is that if you want to get something done reliably, you need someone on the ground who's main responsibility it is to get that thing done. Maybe we can't avoid hiring people specifically to handle recording logistics. But that seems like such a waste of resources when the recording setup, especially in autocapture rooms, requires following just a handful of steps. 
+My main takeaway from working to get classes recorded over the past few years is that, if you want to get something done reliably, you need someone on the ground who's primary responsibility it is to get that thing done. Maybe we can't avoid hiring people specifically to handle recording logistics. But that seems like such a waste of resources when the recording setup, especially in autocapture rooms, requires following just a handful of steps. 
 
-MIT instructors often handle extensive setup tasks on their own, especially for lab classes. While open education is already more present in MIT’s culture and values compared to other universities, it is still limited in scope. By making it an even more central part of the culture, we could make recording setup a key responsibility of teaching staff, allowing us to cost-effectively scale to recording hundreds of classes.
+MIT instructors often handle extensive setup tasks on their own, especially for lab classes. While open education is already more present in MIT’s culture and values compared to other universities, it is still limited in scope. Perhaps if we make it an even more central part of the culture, we could make recording setup a key responsibility of teaching staff, allowing us to cost-effectively scale to recording hundreds of classes.
 
 ## Footnotes:
 
