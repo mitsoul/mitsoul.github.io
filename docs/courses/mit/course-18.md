@@ -25,9 +25,9 @@ Fall/Spring classes:
 - 🔄  18.200 [Principles Of Discrete Applied Mathematics](/courses/mit/course-18/18-200/) (Fall 2013, Spring 2015), <span style="color:red">no solutions</span>
 - 🔄 18.102 [Introduction to Functional Analysis](/courses/mit/course-18/18-102/) (Spring 2009 - Spring 2021), <span style="color:red">no solutions</span>
 - ✅ 18.112 [Functions of a Complex Variable](/courses/mit/course-18/18-112/) (Fall 2008, Fall 2019), <span style="color:red">no recent homework/exams</span>
-- ✅ 18.901 [Introduction to Topology](https://math.mit.edu/~jhirsh/topology.html) (Spring 2016)
-
+- 🔄 18.218 [Topics in Combinatorics](/courses/mit/course-18/18-218/) (Fall 2022, Spring 2023, Spring 2024), <span style="color:red">no solutions</span>
 - 🔄 18.404 [Theory of Computation](/courses/mit/course-18/18-404/) (Fall 2020), <span style="color:red">no solutions</span>
 - 🔄 18.405 [Advanced Complexity Theory](/courses/mit/course-18/18-405/) (Spring 2024), <span style="color:red">no solutions</span>
 - 🔄 18.435 [Quantum Computation](/courses/mit/course-18/18-435/) (Fall 2023), <span style="color:red">no recent homework/exams</span>
 - ✅ 18.783: [Elliptic Curves](https://math.mit.edu/classes/18.783/2023/) (Fall 2023)
+- ✅ 18.901 [Introduction to Topology](https://math.mit.edu/~jhirsh/topology.html) (Spring 2016)
