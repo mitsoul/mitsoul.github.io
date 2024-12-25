@@ -3,4 +3,4 @@ layout: page
 title: Blog
 ---
 
-- 2024-12-12: [Why it's hard to get classes recorded](/blog/recording-logistics)
+- 2024-12-12: [Why it's hard to get classes recorded](ashay.io/blog/why-recording-classes-is-hard/)
