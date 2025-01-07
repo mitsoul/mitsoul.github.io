@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Blog
+permalink: /blog/
 ---
 
 - 2024-12-24: [Scalable lecture capture through crowdsourced scribing](https://ashay.io/blog/crowdsourcing-lecture-scribing/)

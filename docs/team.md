@@ -4,5 +4,5 @@ title: Team
 permalink: /team/
 ---
 
-- Ashay Athalye, director
-- Aayush Gupta, advisor 
+- [Ashay Athalye](https://ashay.io), director
+- [Aayush Gupta](https://aayushg.com/), operations
