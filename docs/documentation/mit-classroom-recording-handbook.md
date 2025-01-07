@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MIT Classroom Recording Handbook
-permalink: /docs/mit-classroom-recording-handbook
+permalink: /docs/mit-classroom-recording-handbook/
 ---
 
 last edited: 2024-01-07
