@@ -60,7 +60,7 @@ I recommend having two backup sources of audio. Both are very easy to set up and
 <br>
 For each lecture, start a zoom meeting on your laptop and start a cloud recording. (Note: you can also pre-schedule zoom meetings and set them up to always do a cloud recording, so then all you have to do is join a particular meeting link at the start of each lecture.) Configure the meeting settings in (`https://mit.zoom.us` &rarr; settings &rarr; recording &rarr; cloud recording setting) to match those in the image below. During lecture, mute the volume of your computer but keep the zoom application's mic unmuted. Share screen to zoom if you are showing anything from your computer on the projector at any point in class -- might as well also get a backup of that in case the video recording gets messed up somehow. At the end of class, click \<end meeting\> in the zoom app to make sure the meeting and recording stops.
 
-![zoom png](/resources/zoom_meeting_recording_settings.png)
+![zoom png](/documentation/zoom_meeting_recording_settings.png)
 
 **Backup #2: portable audio recorder**
 <br>
