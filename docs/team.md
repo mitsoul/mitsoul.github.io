@@ -5,4 +5,4 @@ permalink: /team/
 ---
 
 - [Ashay Athalye](https://ashay.io), director
-- [Aayush Gupta](https://aayushg.com/), operations
+- [Aayush Gupta](https://aayushg.com/), advisor
