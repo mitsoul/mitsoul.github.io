@@ -17,6 +17,7 @@ Fall/Spring classes:
 - ✅ 18.04 [Complex Variables with Applications](/courses/mit/course-18/18-04/) (Fall 2023)
 - ✅ 18.05: [Introduction to Probability and Statistics](/courses/mit/course-18/18-05/) (Fall 2022)
 - ✅ 18.06: [Linear Algebra](https://web.mit.edu/18.06/www/) (Fall 2004 - Fall 2023)
+- 🔄 18.C06 [Linear Algebra and Optimization](/courses/mit/course-18/18-C06/) (Fall 2024), <span style="color:red">no homework/exams</span>
 - 🔄 18.650: [Fundamentals of Statistics](/courses/mit/course-18/18-650/) (Fall 2016 - Fall 2018), <span style="color:red">no solutions/exams</span>
 - 🔄 18.700 [Linear Algebra](/courses/mit/course-18/18-700/) (Fall 2022), <span style="color:red">no solutions/exams</span>
 - 🔄 18.701 [Algebra I](/courses/mit/course-18/18-701/) (Fall 2021), <span style="color:red">no exams</span>
